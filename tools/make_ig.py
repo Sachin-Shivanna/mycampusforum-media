@@ -84,6 +84,7 @@ def header(im,dark_text,idx=None,total=None):
 
 def footer_swipe(im,fg,last):
     d=ImageDraw.Draw(im); f=F(FB,28)
+    d.text((60,H-90),"mycampusforum.com",font=F(FB,26),fill=fg)
     if last:
         t="@mycampusforum"; w=d.textlength(t,font=f); d.text((W-60-w,H-90),t,font=f,fill=fg)
     else:
@@ -143,8 +144,7 @@ def render(s,idx,total):
         y=block(d,60,420,s["title"],100,fg,lh=1.12)
         if s.get("body"): y=block(d,60,y+40,s["body"],44,(90,90,115) if fg==INK else (235,230,250),font=FM,lh=1.4)
         pill(d,60,y+60,s.get("button","Link in bio"),INK if fg==INK else (255,255,255),(255,255,255) if fg==INK else INK,36)
-    if s["kind"] in ("cover","tip","shot") and total>1: footer_swipe(im,fg,last)
-    elif last: footer_swipe(im,fg,True)
+    footer_swipe(im,fg,last or total==1 or s["kind"] not in ("cover","tip","shot"))
     return im
 
 if __name__=="__main__":

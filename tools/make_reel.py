@@ -57,6 +57,8 @@ def brand(im,y=1730,dark=False):
     f=ImageFont.truetype(PB,40); x=x0+92
     for wd,c in (("My",TEAL if dark else (255,255,255)),("Campus",PURP if dark else (255,255,255)),("Forum",ORNG if dark else (255,230,200))):
         d.text((x,y+10),wd,font=f,fill=c); x+=d.textlength(wd,font=f)+6
+    fw=ImageFont.truetype(PB,34); t="mycampusforum.com"; tw=d.textlength(t,font=fw)
+    d.text(((W-tw)/2,y+82),t,font=fw,fill=(40,30,80) if dark else (255,255,255))
 
 def scene_png(sc,path):
     c1,c2,fg,acc=THEME[sc.get("theme","light" if sc["type"]=="end" else "purple")]
