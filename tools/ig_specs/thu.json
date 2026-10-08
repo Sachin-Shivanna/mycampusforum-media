@@ -1,0 +1,7 @@
+{"slides":[
+{"kind":"cover","kicker":"How it works","title":"How your senior can refer you, without the awkward DM","theme":"teal","emoji":"👀"},
+{"kind":"shot","title":"1. An alum posts a role at their company","shot":"screenshots/job-ai-matches.png","crop":[208,0,788,623],"caption":"AI ranks the best-fit students in minutes, and says why.","theme":"purple"},
+{"kind":"shot","title":"2. Chat with seniors in your batch channels","shot":"screenshots/community-channel-chat.png","crop":[0,0,1090,560],"caption":"Ask questions. Get real answers. No cold DMs.","theme":"purple"},
+{"kind":"shot","title":"3. Book a session with alumni","shot":"screenshots/student-sessions-browse.png","caption":"AMAs and mock interviews from people who've been there.","theme":"purple"},
+{"kind":"shot","title":"4. Track it all in one place","shot":"screenshots/student-dashboard.png","crop":[208,0,1000,575],"caption":"Profile, resume, messages and sessions on one dashboard.","theme":"purple"},
+{"kind":"cta","title":"Want this at your college?","body":"Tag your placement cell or share this with your alumni association. Free 30-day pilots for institutions.","button":"Link in bio"}]}
