@@ -11,13 +11,13 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 
 | ID | Feature | Who it helps | What it does (plain words) | Status | Screenshot | Last featured LinkedIn | Last featured Instagram | Last featured X |
 |---|---|---|---|---|---|---|---|---|
-| F01 | AI job matching & explained matches | Alumni, students | Alumni post a role; AI reads the JD, ranks the top 5 best-fit students in minutes (up to 20), each with a plain-language "why this match" | live | job-ai-matches.png | 2026-10-12 | 2026-10-15 | |
+| F01 | AI job matching & explained matches | Alumni, students | Alumni post a role; AI reads the JD, ranks the top 5 best-fit students in minutes (up to 20), each with a plain-language "why this match" | live | job-ai-matches.png | 2026-10-12 | 2026-10-15 | 2026-10-12 |
 | F02 | Company matches (auto job discovery) | Alumni, students | Open roles at alumni's companies are matched to students automatically so alumni can pass profiles along with one click | live | — | | | |
-| F03 | Referrals & warm intros | Students, alumni | Student sees referral matches; recruiter–student chat opens; outcomes tracked (interview, offer) | live | connections-pipeline.png | 2026-10-14 | 2026-10-13 | |
+| F03 | Referrals & warm intros | Students, alumni | Student sees referral matches; recruiter–student chat opens; outcomes tracked (interview, offer) | live | connections-pipeline.png | 2026-10-14 | 2026-10-13 | 2026-10-14 |
 | F04 | Real-time 1:1 chat with lifecycle | Students, alumni | Live recruiter–student chat; archived automatically when the role closes, so students aren't left hanging | live | — | | | |
-| F05 | AI Community Channels | Alumni, students | AI spots natural groups (company, batch, department, role), creates channels, opt-in invites; auto-archives inactive ones | live | community-channel-chat.png | 2026-10-13 | 2026-10-15 | |
+| F05 | AI Community Channels | Alumni, students | AI spots natural groups (company, batch, department, role), creates channels, opt-in invites; auto-archives inactive ones | live | community-channel-chat.png | 2026-10-13 | 2026-10-15 | 2026-10-13 |
 | F06 | Engagement bots (news, polls, Q&A) | Alumni, students | Industry news Mon/Wed, career polls Tue/Thu, discussion prompt Fri keep channels alive without staff effort | live | community-channel-chat.png | | | |
-| F07 | Alumni-hosted sessions (AMAs, workshops, mock interviews) | Students, alumni | Alumni propose sessions, students register, join links + calendar built in | live | student-sessions-browse.png / alumni-host-sessions.png | 2026-10-10 | 2026-10-15 | |
+| F07 | Alumni-hosted sessions (AMAs, workshops, mock interviews) | Students, alumni | Alumni propose sessions, students register, join links + calendar built in | live | student-sessions-browse.png / alumni-host-sessions.png | 2026-10-10 | 2026-10-15 | 2026-10-10 |
 | F08 | AI session-topic suggestions for alumni | Alumni | Monthly AI suggestions of what to teach, based on student interests | live | alumni-host-sessions.png | | | |
 | F09 | Student session requests | Students | Students request the session topics they want; admins see them instantly | live | — | | | |
 | F10 | Admin session review & re-approval | Institutions | Admins approve sessions before students register; edited sessions go back for re-approval, registered students are notified | live | admin-session-review.png | | | |
