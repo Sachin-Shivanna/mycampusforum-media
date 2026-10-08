@@ -1,0 +1,6 @@
+{"kind":"slides","audio_from":"assets/video/story-of-growth-720p.mp4","audio_start":140,"scenes":[
+{"type":"text","pill":"POV: placement season","lines":["100+ applications.","0 replies."],"accent_last":true,"theme":"purple","dur":3},
+{"type":"text","lines":["Then a senior","from YOUR college","works there."],"theme":"teal","dur":3},
+{"type":"shot","top":"They post a role. AI shortlists you in minutes.","shot":"screenshots/job-ai-matches.png","crop":[208,0,788,623],"bottom":"93% match. With the reason why.","theme":"purple","dur":5},
+{"type":"shot","top":"Your batch, seniors & alumni in one channel.","shot":"screenshots/community-channel-chat.png","crop":[0,0,1090,560],"bottom":"Mock interviews. Real advice.","theme":"teal","dur":4},
+{"type":"end","lines":["Warm intro",">","cold application."],"sub":"Tell your placement cell about MyCampusForum.","button":"Link in bio","dur":4}]}
