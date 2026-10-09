@@ -39,9 +39,15 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 | F26 | Mobile app (iOS & Android) | Everyone | Native app for students, alumni and admins: chat, channels, sessions, referrals, jobs, admin console, dark mode | testing — confirm store launch before saying "download" | — | | | |
 | F27 | Private branded institution space | Institutions | Each institution gets its own subdomain and data isolated at the database level (row-level security) | live | — | | | |
 | F28 | Dark mode & accent themes | Everyone | Light/dark themes and colour palettes across web and mobile | live | — | | | |
+| F29 | Target companies for referrals | Students | Students pick up to 10 companies they want a referral into, with suggestions from companies where their alumni work | testing | — | | | |
+| F30 | Notification preferences | Everyone | Choose, event by event, whether you get an in-app alert, an email, both or neither (security emails always stay on) | testing | — | | | |
+| F31 | Scheduled announcements | Institutions | Admins write an announcement now and schedule it to go out later, with the same tracking as "Send now" | testing | — | | | |
+| F32 | Redesigned home & quick navigation | Everyone | Fresh web design: customizable home cards, a "coming up" panel, profile-strength checklist and Ctrl/⌘+K search-or-jump | testing | — | | | |
+| F33 | Projects on profiles & clearer job types | Students, alumni | Students showcase projects (description, link, skills); job posts say onsite, hybrid or remote | testing | — | | | |
 | R01 | LinkedIn profile auto-fill | Students | Paste a LinkedIn URL to pre-fill your profile | roadmap | — | | | |
 | R02 | AI Channels for students | Students | Students join the same AI channels as alumni before graduation | roadmap | — | | | |
 
 ## Sync log
 - 2026-10-08: added "Last featured X" column (X/Twitter channel connected; week-1 X drafts reuse LinkedIn cards for F05/F07/F01/F03).
 - 2026-10-08: catalog created from README, TASK_STATUS_AND_QA.md, web/mobile source and git history up to 2026-10-07 (Course Materials changes 1–5, Faculty profile, Application Tour, realtime notifications).
+- 2026-10-09: added F29–F33 as testing (ux-redesign branch 0cc92ed, not yet merged to main: target companies, notification preferences, scheduled announcements, redesigned home + Ctrl/⌘K, student projects + onsite/hybrid/remote jobs). main since 10-07 (823c924, 3779474, 76ce70c, beb8a7b) = fixes/deps only.
