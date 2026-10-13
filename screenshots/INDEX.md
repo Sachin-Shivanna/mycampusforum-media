@@ -20,5 +20,17 @@ All screenshots are demo data. Files added 2026-10-13 come from a sandbox run of
 | profile-coach.png | Student home "Get referral-ready" card: 40/100 score, next steps with points, "Not visible yet" | Profile coach (F36), student tips |
 | referral-status-timeline.png | Student referral timeline: requested → matched → accepted → chat active → interview next | Referral status (F37), transparency |
 | institution-analytics.png | Admin analytics: active alumni, mentors, referrals, sessions, referral funnel, median response time, Export CSV | Analytics (F41), institution value |
+| web-posters-overlay-homecoming.png | Posters (web): "Alumni Homecoming 2026" pops up for a student right after sign-in, "Poster 1 of 3", with Save and Never show again | Posters launch, events, "never miss a campus update" |
+| web-posters-overlay-hackathon.png | Posters (web): the next poster in the queue, "Hack the Campus" (CS students + CS alumni only) | Posters, targeting by department, hackathons |
+| web-posters-overlay-placement.png | Posters (web): "Placement Week" poster for all students, 3 of 3 | Posters, placement season, student engagement |
+| web-posters-overlay-pdf.png | Posters (web): a PDF poster shown inline to faculty (staff-role audience) | Posters for staff, PDFs work too |
+| web-posters-admin-list.png | Admin: Announcements › Posters list with Live / Scheduled status, audience summary, seen and "hid it" counts | Admin control, scheduling, reach metrics |
+| web-posters-editor.png | Admin: New poster editor: upload image or PDF, title, start and end date | How easy it is to publish a poster |
+| web-posters-audience.png | Admin: audience picker: Students (by department/batch), Alumni, Staff roles, with live "Reaches 214 people" count | Targeting, staff roles as audience, reach |
+| mobile-posters-overlay-homecoming.png | Posters (mobile app): homecoming poster pops up after sign-in with Save and Never show again | Mobile app, Posters launch |
+| mobile-posters-overlay-hackathon.png | Posters (mobile app): "Hack the Campus" poster, 2 of 3 | Mobile app, events |
+| mobile-posters-admin-list.png | Mobile admin: Inbox › Announcements › Posters list with status and seen counts | Admin on the go |
+| mobile-posters-editor.png | Mobile admin: New poster sheet with photo/file upload, title, start and end | Publish from your phone |
+| mobile-posters-audience.png | Mobile admin: audience picker with department chips and live reach count | Targeting from mobile |
 
 No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): Course Materials, video meeting room, PayForward donations, bulk CSV invitations, LinkedIn profile import, alumni verification.
