@@ -22,7 +22,7 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 | F09 | Student session requests | Students | Students request the session topics they want; admins see them instantly | live | — | | | |
 | F10 | Admin session review & re-approval | Institutions | Admins approve sessions before students register; edited sessions go back for re-approval, registered students are notified | live | admin-session-review.png | | | |
 | F11 | Built-in video rooms (sessions & interviews) | Everyone | Gated video meetings with per-user join tokens and attendance for sessions and channel interviews | testing | — | | | |
-| F12 | Course Materials marketplace | Faculty, students, institutions | Faculty create course folders and upload PDFs; students request access; watermarked viewer; ratings; cross-institution listing and purchase | live (NEW) | — | | | |
+| F12 | Course Materials marketplace | Faculty, students, institutions | Faculty create course folders and upload PDFs; students request access; watermarked viewer; ratings; cross-institution listing and purchase | live (NEW) | — | | 2026-10-14 | |
 | F13 | Faculty role | Faculty, institutions | Faculty get their own profile and student view inside the institution space | live (NEW) | — | | | |
 | F14 | PayForward (alumni giving) | Alumni, students, institutions | Alumni contribute to student aid funds with personal thank-yous; Razorpay/Stripe; admin tracking | testing | — (live screenshot shows amounts — do not use) | | | |
 | F15 | Graduation flow (student → alumni) | Students, institutions | Graduating batches move from student to alumni accounts in one step with a public activation page | testing | — | | | |
