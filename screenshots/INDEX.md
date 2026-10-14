@@ -32,5 +32,10 @@ All screenshots are demo data. Files added 2026-10-13 come from a sandbox run of
 | mobile-posters-admin-list.png | Mobile admin: Inbox › Announcements › Posters list with status and seen counts | Admin on the go |
 | mobile-posters-editor.png | Mobile admin: New poster sheet with photo/file upload, title, start and end | Publish from your phone |
 | mobile-posters-audience.png | Mobile admin: audience picker with department chips and live reach count | Targeting from mobile |
+| student-target-companies.png | Student profile: Target companies (3 of 10) with alumni-company suggestions, next to the profile coach | F29 target companies |
+| student-projects.png | Student profile: Projects section with description, link and skills chips | F33 projects on profiles |
+| notification-preferences.png | Settings › Notifications: per-event In app / Email toggles (community, sessions, careers) | F30 notification preferences |
+| staff-roles-permissions.png | Principal settings › Roles & permissions: Principal → Admin → Faculty hierarchy and read/create/edit/delete grid | F42 staff roles |
+| staff-user-roles.png | People › User roles: everyone's role, staff role, status and last sign-in, with filters | F42 staff roles |
 
 No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): Course Materials, video meeting room, PayForward donations, bulk CSV invitations, LinkedIn profile import, alumni verification.
