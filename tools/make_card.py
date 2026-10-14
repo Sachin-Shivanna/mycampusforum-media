@@ -76,19 +76,25 @@ def shot(a):
     c.paste(fade,(0,H-140),fade); footer(c); return c
 
 def text(a):
-    c=bg(); d=brand(c); opts=[o.split(":",1) for o in (a.option or [])]
-    y0=250 if not opts else 230
-    d.text((64,y0),a.eyebrow.upper(),font=F(FB,22),fill=ORNG)
-    f=F(FB,70 if not opts else 62); y=y0+50
-    for l in wrap(d,a.headline,f,W-128): d.text((64,y),l,font=f,fill=INK); y+=int(f.size*1.2)
-    y+=30; cols=[TEAL,PURP,ORNG,(10,120,190)]
-    for i,(k,v) in enumerate(opts[:4]):
-        d.rounded_rectangle([64,y,W-64,y+92],46,fill=(255,255,255),outline=(225,222,240),width=2)
-        d.ellipse([80,y+14,144,y+78],fill=cols[i]); d.text((112,y+46),k.strip(),font=F(FB,30),fill=(255,255,255),anchor="mm")
-        d.text((168,y+46),v.strip(),font=F(FM,30),fill=INK,anchor="lm"); y+=112
-    if a.note:
-        fs=F(FT,30)
-        for l in wrap(d,a.note,fs,W-128): d.text((64,y),l,font=fs,fill=MUTED); y+=44
+    """Text card. Up to 5 --option "K:label" rows. The whole block is vertically centred."""
+    c=bg(); d=brand(c); opts=[o.split(":",1) for o in (a.option or [])][:5]
+    f=F(FB,70 if not opts else (62 if len(opts)<=3 else 56)); fs=F(FT,30)
+    hl=wrap(d,a.headline,f,W-128); nl=wrap(d,a.note,fs,W-128) if a.note else []
+    rh=92 if len(opts)<=4 else 84; gap=rh+18
+    total=50+len(hl)*int(f.size*1.2)+(30+len(opts)*gap if opts else 0)+(24+len(nl)*44 if nl else 0)
+    y0=max(150,int(150+(H-150-130-total)/2))
+    d.text((64,y0),a.eyebrow.upper(),font=F(FB,22),fill=ORNG); y=y0+50
+    for l in hl: d.text((64,y),l,font=f,fill=INK); y+=int(f.size*1.2)
+    cols=[TEAL,PURP,ORNG,(10,120,190),(200,60,110)]
+    if opts: y+=30
+    for i,(k,v) in enumerate(opts):
+        d.rounded_rectangle([64,y,W-64,y+rh],rh//2,fill=(255,255,255),outline=(225,222,240),width=2)
+        m=rh//2; d.ellipse([80,y+m-32,144,y+m+32],fill=cols[i]); d.text((112,y+m),k.strip(),font=F(FB,30),fill=(255,255,255),anchor="mm")
+        fv=F(FM,30 if d.textlength(v.strip(),font=F(FM,30))<W-260 else 26)
+        d.text((168,y+m),v.strip(),font=fv,fill=INK,anchor="lm"); y+=gap
+    if nl:
+        y+=24
+        for l in nl: d.text((64,y),l,font=fs,fill=MUTED); y+=44
     footer(c); return c
 
 p=argparse.ArgumentParser(); p.add_argument("kind",choices=["shot","text"])
