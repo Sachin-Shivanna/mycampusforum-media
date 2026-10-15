@@ -22,7 +22,7 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 | F09 | Student session requests | Students | Students request the session topics they want; admins see them instantly | live | — | | | |
 | F10 | Admin session review & re-approval | Institutions | Admins approve sessions before students register; edited sessions go back for re-approval, registered students are notified | live | admin-session-review.png | | | |
 | F11 | Built-in video rooms (sessions & interviews) | Everyone | Gated video meetings with per-user join tokens and attendance for sessions and channel interviews | testing | — | | | |
-| F12 | Course Materials marketplace | Faculty, students, institutions | Faculty create course folders and upload PDFs; students request access; watermarked viewer; ratings; cross-institution listing and purchase | live | — | 2026-10-20 | 2026-10-14 | |
+| F12 | Course Materials marketplace | Faculty, students, institutions | Faculty create course folders and upload PDFs; students request access; watermarked viewer; ratings; cross-institution listing and purchase | live | student-learn-course-materials.png | 2026-10-20 | 2026-10-14 | |
 | F13 | Faculty role | Faculty, institutions | Faculty get their own profile and student view inside the institution space | live (NEW) | — | | | |
 | F14 | PayForward (alumni giving) | Alumni, students, institutions | Alumni contribute to student aid funds with personal thank-yous; Razorpay/Stripe; admin tracking | testing | — (live screenshot shows amounts — do not use) | | | |
 | F15 | Graduation flow (student → alumni) | Students, institutions | Graduating batches move from student to alumni accounts in one step with a public activation page | testing | — | | | |
@@ -34,14 +34,14 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 | F21 | Student facilitation status | Institutions | See who never logged in, who's missing a resume, who's active — and nudge them | live | — | | | |
 | F22 | Content moderation (flags) | Institutions | Flagged content goes to admins before it affects users; escalation workflow | live | — | | | |
 | F23 | Support inbox / Contact Admin | Everyone | Students and alumni message the admin team directly; admins work a shared inbox | live | — | | | |
-| F24 | Real-time notifications | Everyone | Approvals, announcements, registrations and cancellations update live in ~1 second, no refresh | live (NEW) | — | | | 2026-10-16 |
+| F24 | Real-time notifications | Everyone | Approvals, announcements, registrations and cancellations update live in ~1 second, no refresh | live (NEW) | student-notifications-bell.png | | | 2026-10-16 |
 | F25 | Guided welcome tours | Everyone | Role-specific in-app tours for first-time students, alumni, faculty and admins | live | — | 2026-10-18 | 2026-10-17 | |
 | F26 | Mobile app (iOS & Android) | Everyone | Native app for students, alumni and admins: chat, channels, sessions, referrals, jobs, admin console, dark mode | testing — confirm store launch before saying "download" | — | | | |
 | F27 | Private branded institution space | Institutions | Each institution gets its own subdomain and data isolated at the database level (row-level security) | live | — | | | |
 | F28 | Dark mode & accent themes | Everyone | Light/dark themes and colour palettes across web and mobile | live | — | | | |
 | F29 | Target companies for referrals | Students | Students pick up to 10 companies they want a referral into, with suggestions from companies where their alumni work | live (NEW) | student-target-companies.png | | | |
 | F30 | Notification preferences | Everyone | Choose, event by event, whether you get an in-app alert, an email, both or neither (security emails always stay on) | live (NEW) | notification-preferences.png | | | |
-| F31 | Scheduled announcements | Institutions | Admins write an announcement now and schedule it to go out later, with the same tracking as "Send now" | live (NEW) | — | | | 2026-10-19 |
+| F31 | Scheduled announcements | Institutions | Admins write an announcement now and schedule it to go out later, with the same tracking as "Send now" | live (NEW) | admin-scheduled-announcements.png | | | 2026-10-19 |
 | F32 | Redesigned home & quick navigation | Everyone | Fresh web design: customizable home cards, a "coming up" panel, profile-strength checklist and Ctrl/⌘+K search-or-jump | live (NEW) | — | | | |
 | F33 | Projects on profiles & clearer job types | Students, alumni | Students showcase projects (description, link, skills); job posts say onsite, hybrid or remote | live (NEW) | student-projects.png | | 2026-10-19 | |
 | F34 | Cohort circles | Students, alumni | Small private groups around one topic (e.g. Fintech, Product, Founding a Startup), each hosted by an alum; students are matched by interests, profile and target companies, or ask to join. Institutions switch circles on | live | cohort-circles-discover.png / cohort-circle-chat.png / admin-cohort-circles.png | 2026-10-16 | 2026-10-20 | 2026-10-20 |
@@ -69,3 +69,6 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 - 2026-10-14: Oct 16–21 posts created in one batch for LinkedIn, Instagram and X (Last featured dates filled). F12, F25, F34 NEW flags cleared (announced on LinkedIn + Instagram).
 - 2026-10-14 (sync): added F45 Posters as testing (312bb88, ERP_LMS branch only — not yet on main; migration 222; web + mobile; screenshot from 1104df3). Other commits since 10-13 are fixes only (e0acdf4 regression fixes, Ctrl+K hub-tab fixes in 312bb88). No status changes; main unchanged since 1ca15f7 (#275).
 - 2026-10-14: screenshots captured from the real app (sandbox run of main 1ca15f7, fictional demo data) for F29, F30, F33, F42.
+
+- 2026-10-15 (sync): no marketable changes — no commits on any branch since 312bb88 (2026-10-13); main still 1ca15f7. F45 stays testing.
+- 2026-10-15: screenshots captured from the real app (sandbox run of main 1ca15f7, fictional demo data) for F12, F24, F31.

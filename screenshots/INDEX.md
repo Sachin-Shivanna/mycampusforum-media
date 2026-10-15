@@ -37,5 +37,8 @@ All screenshots are demo data. Files added 2026-10-13 come from a sandbox run of
 | notification-preferences.png | Settings › Notifications: per-event In app / Email toggles (community, sessions, careers) | F30 notification preferences |
 | staff-roles-permissions.png | Principal settings › Roles & permissions: Principal → Admin → Faculty hierarchy and read/create/edit/delete grid | F42 staff roles |
 | staff-user-roles.png | People › User roles: everyone's role, staff role, status and last sign-in, with filters | F42 staff roles |
+| admin-scheduled-announcements.png | Staff › Announcements: drafts, sent (with read rate) and scheduled announcements with send date/time and Cancel schedule | F31 scheduled announcements |
+| student-notifications-bell.png | Student home with the Notifications panel open: new message, referral match, session reminder, circle invite | F24 real-time notifications |
+| student-learn-course-materials.png | Student › Learn: faculty course materials by year/semester with folders/PDF counts, Open or Request access | F12 Course Materials |
 
-No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): Course Materials, video meeting room, PayForward donations, bulk CSV invitations, LinkedIn profile import, alumni verification.
+No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): video meeting room, PayForward donations, bulk CSV invitations, LinkedIn profile import, alumni verification.
