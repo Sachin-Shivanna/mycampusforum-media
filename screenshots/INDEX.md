@@ -40,5 +40,9 @@ All screenshots are demo data. Files added 2026-10-13 come from a sandbox run of
 | admin-scheduled-announcements.png | Staff › Announcements: drafts, sent (with read rate) and scheduled announcements with send date/time and Cancel schedule | F31 scheduled announcements |
 | student-notifications-bell.png | Student home with the Notifications panel open: new message, referral match, session reminder, circle invite | F24 real-time notifications |
 | student-learn-course-materials.png | Student › Learn: faculty course materials by year/semester with folders/PDF counts, Open or Request access | F12 Course Materials |
+| student-home-redesign.png | Student Home (redesign): referral-ready checklist, Coming up sessions, referral opportunities, updates and quick stats, Customize button | F32 redesigned home |
+| command-palette-ctrl-k.png | Ctrl/⌘+K search-or-jump palette open over Home: quick actions (request a session topic, update resume, dark mode) and pages | F32 quick navigation |
+| sign-out-all-devices.png | Student settings › Account and security: "Sign out of all devices" plus sign-in email and password | F44 sign out everywhere |
+| institution-data-export.png | Principal settings › Institution data: one-file export (private chats never included), emailed when ready, request history | F43 institution data export |
 
 No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): video meeting room, PayForward donations, bulk CSV invitations, LinkedIn profile import, alumni verification.
