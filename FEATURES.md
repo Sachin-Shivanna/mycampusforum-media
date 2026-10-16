@@ -72,3 +72,5 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 
 - 2026-10-15 (sync): no marketable changes — no commits on any branch since 312bb88 (2026-10-13); main still 1ca15f7. F45 stays testing.
 - 2026-10-15: screenshots captured from the real app (sandbox run of main 1ca15f7, fictional demo data) for F12, F24, F31.
+
+- 2026-10-16 (sync): no marketable changes — no commits on any branch since 312bb88 (2026-10-13); main still 1ca15f7. Uncommitted local work (platform-admin sub-roles migration 227, course/meet tweaks) not counted until committed. F45 stays testing.
