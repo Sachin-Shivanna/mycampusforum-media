@@ -48,5 +48,9 @@ All screenshots are demo data. Files added 2026-10-13 come from a sandbox run of
 | placement-checkin-student.png | Student Home: Quick check-in "How did it go at …?" with the private "Did you get the job?" panel open | F38 placement check-ins |
 | faculty-courses.png | Faculty › Courses: their own course with folders, PDFs and access count, New course button | F13 faculty role |
 | faculty-my-students.png | Faculty › My students: read-only list of the institution's students with department, class of and which of the faculty's courses each can open | F13 faculty role |
+| admin-student-facilitation.png | Admin › People › Students: status chips (Needs resume, Profile incomplete, Never logged in, Active) with counts, profile-strength bar and last seen per student | F21 student facilitation status |
+| admin-student-reminder.png | Admin › Students filtered to "Never logged in" with the "Send a reminder" dialog (one profile-completion email) | F21 student facilitation status |
+| admin-csv-bulk-invite.png | Invite people › Upload CSV: batch2026.csv parsed — 5 ready, 1 already enrolled (de-duplicated), saved invite template selected, "Invite 5 students" | F18 bulk invitations |
+| admin-support-inbox.png | Admin › Inbox › Support: open/resolved student and alumni questions, thread with admin reply and Mark resolved | F23 support inbox / Contact Admin |
 
-No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): video meeting room, PayForward donations, bulk CSV invitations, LinkedIn profile import, alumni verification.
+No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): video meeting room, PayForward donations, LinkedIn profile import, alumni verification.

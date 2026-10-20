@@ -28,12 +28,12 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 | F15 | Graduation flow (student → alumni) | Students, institutions | Graduating batches move from student to alumni accounts in one step with a public activation page | testing | — | | | |
 | F16 | Student profile builder & resume upload | Students | Profile strength score, skills, LinkedIn/portfolio links, drag-and-drop resume that powers matching | live | student-dashboard.png | | | |
 | F17 | Verified alumni (corporate email + admin approval) | Institutions, students | Alumni verified via corporate email and an admin approval queue, so students know who they're talking to | live | — | | | |
-| F18 | Bulk invitations (CSV import) | Institutions | Invite thousands of students/alumni from a CSV with templates, de-duplication and history | live | — | | | |
+| F18 | Bulk invitations (CSV import) | Institutions | Invite thousands of students/alumni from a CSV with templates, de-duplication and history | live | admin-csv-bulk-invite.png | | | |
 | F19 | Announcements (email + in-app) | Institutions | Broadcast to students, alumni or specific channels with sent/read tracking | live | — | | | |
 | F20 | Admin dashboard & placement funnel | Institutions | One view of students, alumni, connections, sessions, flags and the match → interview → offer funnel | live | admin-dashboard.png | | | |
-| F21 | Student facilitation status | Institutions | See who never logged in, who's missing a resume, who's active — and nudge them | live | — | | | |
+| F21 | Student facilitation status | Institutions | See who never logged in, who's missing a resume, who's active — and nudge them | live | admin-student-facilitation.png / admin-student-reminder.png | | | |
 | F22 | Content moderation (flags) | Institutions | Flagged content goes to admins before it affects users; escalation workflow | live | — | | | |
-| F23 | Support inbox / Contact Admin | Everyone | Students and alumni message the admin team directly; admins work a shared inbox | live | — | | | |
+| F23 | Support inbox / Contact Admin | Everyone | Students and alumni message the admin team directly; admins work a shared inbox | live | admin-support-inbox.png | | | |
 | F24 | Real-time notifications | Everyone | Approvals, announcements, registrations and cancellations update live in ~1 second, no refresh | live (NEW) | student-notifications-bell.png | | | 2026-10-16 |
 | F25 | Guided welcome tours | Everyone | Role-specific in-app tours for first-time students, alumni, faculty and admins | live | — | 2026-10-18 | 2026-10-17 | |
 | F26 | Mobile app (iOS & Android) | Everyone | Native app for students, alumni and admins: chat, channels, sessions, referrals, jobs, admin console, dark mode | testing — confirm store launch before saying "download" | — | | | |
@@ -82,3 +82,5 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 
 - 2026-10-20 (sync): added F46–F49 as testing — "LMS Phase 1" (20918b5, ERP_LMS branch only, not yet on main; migrations 223–228): academic setup, term courses & enrollment, assignments & gradebook (+24 h due reminders), timetable & attendance (QR/upload/live-class, leave requests) on web + mobile. main still 1ca15f7; no status changes. F45 stays testing. No screenshots (nothing new on main).
 - 2026-10-20: screenshots captured from the real app (sandbox run of main 1ca15f7, fictional demo data) for F38 (student check-in + admin outcomes card) and F13 (faculty courses + My students).
+- 2026-10-20 (2nd sync): no marketable changes — no new commits on any branch since 20918b5 (already logged); main still 1ca15f7.
+- 2026-10-20: screenshots captured from the real app (sandbox run of main 1ca15f7, fictional demo data) for F21 (students status chips + reminder dialog), F18 (CSV bulk invite with de-dup), F23 (support inbox).
