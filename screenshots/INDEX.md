@@ -44,5 +44,9 @@ All screenshots are demo data. Files added 2026-10-13 come from a sandbox run of
 | command-palette-ctrl-k.png | Ctrl/⌘+K search-or-jump palette open over Home: quick actions (request a session topic, update resume, dark mode) and pages | F32 quick navigation |
 | sign-out-all-devices.png | Student settings › Account and security: "Sign out of all devices" plus sign-in email and password | F44 sign out everywhere |
 | institution-data-export.png | Principal settings › Institution data: one-file export (private chats never included), emailed when ready, request history | F43 institution data export |
+| placement-outcomes-admin.png | Principal Overview › Placement outcomes card: placed %, via-referral %, answer rate, by department (small departments hidden for privacy), top employers | F38 placement check-ins & outcomes |
+| placement-checkin-student.png | Student Home: Quick check-in "How did it go at …?" with the private "Did you get the job?" panel open | F38 placement check-ins |
+| faculty-courses.png | Faculty › Courses: their own course with folders, PDFs and access count, New course button | F13 faculty role |
+| faculty-my-students.png | Faculty › My students: read-only list of the institution's students with department, class of and which of the faculty's courses each can open | F13 faculty role |
 
 No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): video meeting room, PayForward donations, bulk CSV invitations, LinkedIn profile import, alumni verification.
