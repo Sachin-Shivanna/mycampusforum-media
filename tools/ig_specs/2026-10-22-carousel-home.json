@@ -1,0 +1,62 @@
+{
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "New on MyCampusForum",
+   "title": "Open the app. Know what's next. In 5 seconds.",
+   "theme": "teal",
+   "emoji": "🏠"
+  },
+  {
+   "kind": "shot",
+   "title": "1. Your week, sorted",
+   "shot": "screenshots/student-home-redesign.png",
+   "crop": [
+    870,
+    160,
+    1356,
+    560
+   ],
+   "caption": "Sessions + your own events, next 14 days.",
+   "theme": "purple"
+  },
+  {
+   "kind": "shot",
+   "title": "2. Updates without the hunt",
+   "shot": "screenshots/student-home-redesign.png",
+   "crop": [
+    870,
+    590,
+    1356,
+    1043
+   ],
+   "caption": "Inbox, referrals and sessions at a glance.",
+   "theme": "purple"
+  },
+  {
+   "kind": "shot",
+   "title": "3. Ctrl/Cmd + K, jump anywhere",
+   "shot": "screenshots/command-palette-ctrl-k.png",
+   "crop": [
+    240,
+    125,
+    890,
+    590
+   ],
+   "caption": "Résumé, topics, dark mode. Zero hunting.",
+   "theme": "purple"
+  },
+  {
+   "kind": "tip",
+   "num": 4,
+   "title": "Make it yours",
+   "body": "Hit Customize and choose which cards sit on your home. Your campus, your layout."
+  },
+  {
+   "kind": "cta",
+   "title": "Want this at your college?",
+   "body": "Tag your college and your placement cell. Free 30-day pilots for institutions.",
+   "button": "mycampusforum.com"
+  }
+ ]
+}
