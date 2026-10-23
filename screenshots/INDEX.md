@@ -52,5 +52,8 @@ All screenshots are demo data. Files added 2026-10-13 come from a sandbox run of
 | admin-student-reminder.png | Admin › Students filtered to "Never logged in" with the "Send a reminder" dialog (one profile-completion email) | F21 student facilitation status |
 | admin-csv-bulk-invite.png | Invite people › Upload CSV: batch2026.csv parsed — 5 ready, 1 already enrolled (de-duplicated), saved invite template selected, "Invite 5 students" | F18 bulk invitations |
 | admin-support-inbox.png | Admin › Inbox › Support: open/resolved student and alumni questions, thread with admin reply and Mark resolved | F23 support inbox / Contact Admin |
+| academic-setup-review.png | Settings › Academic setup wizard, step 3 Review: India college model, semesters, SGPA/CGPA, branches → departments and B.Tech/M.Tech/MBA programs to create, "Confirm India college" | F46 academic setup |
+| admin-get-started-checklist.png | Principal Overview › "Get started" checklist on a free trial: 2 of 5 done (verify email, set up academics, sections & students, invite teachers, first term & subjects) with action buttons | F51 Get-started checklist |
+| billing-plan-usage.png | Settings › Billing & plan: College Complete plan on free trial, usage meters for AI credits, live-class minutes and storage (no prices shown) | F52 Billing & plan / F50 free trial |
 
 No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): video meeting room, PayForward donations, LinkedIn profile import, alumni verification.
