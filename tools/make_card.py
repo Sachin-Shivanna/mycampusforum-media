@@ -49,7 +49,7 @@ def wrap(d,text,font,maxw):
     lines.append(cur); return lines
 
 def footer(c):
-    d=ImageDraw.Draw(c); t="mycampusforum.com  ·  Free 30-day pilots"; f=F(FB,20); w=d.textlength(t,font=f)
+    d=ImageDraw.Draw(c); t="mycampusforum.com  ·  30-day free trial"; f=F(FB,20); w=d.textlength(t,font=f)
     d.rounded_rectangle([W-64-w-36,H-86,W-64,H-40],23,fill=INK); d.text((W-64-w-18,H-63),t,font=f,fill=(255,255,255),anchor="lm")
 
 def rounded(im,r):
