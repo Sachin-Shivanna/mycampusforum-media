@@ -1,0 +1,6 @@
+{"kind":"slides","audio_from":"assets/video/story-of-growth-720p.mp4","audio_start":128,"scenes":[
+{"type":"text","pill":"POV: 11:36 PM","lines":["Assignment due","at 11:59.","You just found out."],"accent_last":true,"theme":"purple","dur":3.5},
+{"type":"text","lines":["Group chat:","\"wait, it was","due TODAY?\""],"accent_last":true,"theme":"teal","dur":3},
+{"type":"text","pill":"On MyCampusForum","lines":["A reminder","24 hours before.","Not 24 minutes."],"accent_last":true,"theme":"purple","dur":3.5},
+{"type":"text","lines":["Submit online.","See feedback","and grades","when released."],"accent_last":true,"theme":"teal","dur":3.5},
+{"type":"end","lines":["24 hours",">","24 minutes."],"sub":"Assignments, deadlines and grades in one app.","button":"mycampusforum.com","dur":3.5}]}
