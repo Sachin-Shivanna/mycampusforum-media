@@ -55,5 +55,10 @@ All screenshots are demo data. Files added 2026-10-13 come from a sandbox run of
 | academic-setup-review.png | Settings › Academic setup wizard, step 3 Review: India college model, semesters, SGPA/CGPA, branches → departments and B.Tech/M.Tech/MBA programs to create, "Confirm India college" | F46 academic setup |
 | admin-get-started-checklist.png | Principal Overview › "Get started" checklist on a free trial: 2 of 5 done (verify email, set up academics, sections & students, invite teachers, first term & subjects) with action buttons | F51 Get-started checklist |
 | billing-plan-usage.png | Settings › Billing & plan: College Complete plan on free trial, usage meters for AI credits, live-class minutes and storage (no prices shown) | F52 Billing & plan / F50 free trial |
+| academics-term-courses.png | Academics › Courses for Odd Semester 2026-27: core, lab and elective courses with teachers (incl. a TA), linked section vs self-registration, seats 4 / 40 for the elective | F47 term courses & enrollment |
+| faculty-gradebook.png | Faculty › course › Grades: gradebook per student (mid-term, lab, assignment; late penalty applied, missing work marked), weighted categories 50/30/20, Export CSV. Later assignment columns scroll sideways | F48 assignments & gradebook |
+| student-assignments.png | Student › course › Assignments: released scores, a submitted problem set due tomorrow and an upcoming mini-project | F48 assignments & gradebook |
+| academics-timetable.png | Academics › Timetable: weekly grid by section with periods, breaks, rooms and a 2-period lab; periods/week placed per course; Print + Publish timetable | F49 timetable & attendance |
+| student-attendance.png | Student › course › Attendance: 95.2% (20 of 21 classes, 75% needed) with class-by-class present/absent list | F49 timetable & attendance |
 
 No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): video meeting room, PayForward donations, LinkedIn profile import, alumni verification.
