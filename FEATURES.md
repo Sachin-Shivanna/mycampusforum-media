@@ -34,7 +34,7 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 | F21 | Student facilitation status | Institutions | See who never logged in, who's missing a resume, who's active — and nudge them | live | admin-student-facilitation.png / admin-student-reminder.png | | | |
 | F22 | Content moderation (flags) | Institutions | Flagged content goes to admins before it affects users; escalation workflow | live | — | | | |
 | F23 | Support inbox / Contact Admin | Everyone | Students and alumni message the admin team directly; admins work a shared inbox | live | admin-support-inbox.png | | | |
-| F24 | Real-time notifications | Everyone | Approvals, announcements, registrations and cancellations update live in ~1 second, no refresh | live (NEW) | student-notifications-bell.png | | | 2026-10-16 |
+| F24 | Real-time notifications | Everyone | Approvals, announcements, registrations and cancellations update live in ~1 second, no refresh | live (NEW) | student-notifications-bell.png | | 2026-10-28 | 2026-10-16 |
 | F25 | Guided welcome tours | Everyone | Role-specific in-app tours for first-time students, alumni, faculty and admins | live | — | 2026-10-18 | 2026-10-17 | |
 | F26 | Mobile app (iOS & Android) | Everyone | Native app for students, alumni and admins: chat, channels, sessions, referrals, jobs, admin console, dark mode | testing — confirm store launch before saying "download" | — | | | |
 | F27 | Private branded institution space | Institutions | Each institution gets its own subdomain and data isolated at the database level (row-level security) | live | — | | | |
