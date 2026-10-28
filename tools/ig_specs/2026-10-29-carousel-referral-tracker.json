@@ -1,0 +1,55 @@
+{
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "New on MyCampusForum",
+   "title": "\"Did my referral go anywhere?\" Now you'll actually know.",
+   "theme": "teal",
+   "emoji": "👀"
+  },
+  {
+   "kind": "shot",
+   "title": "1. Pick your dream companies",
+   "shot": "screenshots/student-target-companies.png",
+   "crop": [
+    134,
+    40,
+    1266,
+    700
+   ],
+   "caption": "Up to 10, with suggestions from where your college's alumni work.",
+   "theme": "purple"
+  },
+  {
+   "kind": "tip",
+   "num": 2,
+   "title": "Get seen by the right seniors",
+   "body": "Alumni see your profile once you have a résumé and enough profile points. The profile coach shows the quickest fix."
+  },
+  {
+   "kind": "shot",
+   "title": "3. Follow every step",
+   "shot": "screenshots/referral-status-timeline.png",
+   "crop": [
+    650,
+    400,
+    1384,
+    870
+   ],
+   "caption": "Requested, matched, accepted, chat, interview, offer. With dates.",
+   "theme": "purple"
+  },
+  {
+   "kind": "tip",
+   "num": 4,
+   "title": "No more \"seen, no reply\"",
+   "body": "Filter by stage and see where each referral stands. No chasing your senior on WhatsApp at midnight."
+  },
+  {
+   "kind": "cta",
+   "title": "Want this at your college?",
+   "body": "Tag your college and your placement cell. 30-day free trial for colleges, no card needed.",
+   "button": "mycampusforum.com"
+  }
+ ]
+}
