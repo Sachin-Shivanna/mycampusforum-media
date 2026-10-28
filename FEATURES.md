@@ -19,7 +19,7 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 | F06 | Engagement bots (news, polls, Q&A) | Alumni, students | Industry news Mon/Wed, career polls Tue/Thu, discussion prompt Fri keep channels alive without staff effort | retired — removed with community channels, Oct 2026. Do not post | community-channel-chat.png | | | |
 | F07 | Alumni-hosted sessions (AMAs, workshops, mock interviews) | Students, alumni | Alumni propose sessions, students register, join links + calendar built in | live | student-sessions-browse.png / alumni-host-sessions.png | 2026-10-10 | 2026-10-15 | 2026-10-10 |
 | F08 | AI session-topic suggestions for alumni | Alumni | Monthly AI suggestions of what to teach, based on student interests | live | alumni-host-sessions.png | | | |
-| F09 | Student session requests | Students | Students request the session topics they want; admins see them instantly | live | — | | | |
+| F09 | Student session requests | Students | Students request the session topics they want; admins see them instantly | live | admin-student-topic-requests.png | | | |
 | F10 | Admin session review & re-approval | Institutions | Admins approve sessions before students register; edited sessions go back for re-approval, registered students are notified | live | admin-session-review.png | | | |
 | F11 | Built-in video rooms (sessions & interviews) | Everyone | Gated video meetings with per-user join tokens and attendance for sessions and channel interviews | testing | — | | | |
 | F12 | Course Materials marketplace | Faculty, students, institutions | Faculty create course folders and upload PDFs; students request access; watermarked viewer; ratings; cross-institution listing and purchase | live | student-learn-course-materials.png | 2026-10-20 | 2026-10-14 | |
@@ -27,12 +27,12 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 | F14 | PayForward (alumni giving) | Alumni, students, institutions | Alumni contribute to student aid funds with personal thank-yous; Razorpay/Stripe; admin tracking | testing | — (live screenshot shows amounts — do not use) | | 2026-10-23 | |
 | F15 | Graduation flow (student → alumni) | Students, institutions | Graduating batches move from student to alumni accounts in one step with a public activation page | testing | — | | | |
 | F16 | Student profile builder & resume upload | Students | Profile strength score, skills, LinkedIn/portfolio links, drag-and-drop resume that powers matching | live | student-dashboard.png | | | |
-| F17 | Verified alumni (corporate email + admin approval) | Institutions, students | Alumni verified via corporate email and an admin approval queue, so students know who they're talking to | live | — | | | |
+| F17 | Verified alumni (corporate email + admin approval) | Institutions, students | Alumni verified via corporate email and an admin approval queue, so students know who they're talking to | live | admin-alumni-verification-queue.png | | | |
 | F18 | Bulk invitations (CSV import) | Institutions | Invite thousands of students/alumni from a CSV with templates, de-duplication and history | live | admin-csv-bulk-invite.png | | | |
-| F19 | Announcements (email + in-app) | Institutions | Broadcast to students, alumni or specific channels with sent/read tracking | live | — | | | |
+| F19 | Announcements (email + in-app) | Institutions | Broadcast to students, alumni or specific channels with sent/read tracking | live | admin-announcements-read-tracking.png | | | |
 | F20 | Admin dashboard & placement funnel | Institutions | One view of students, alumni, connections, sessions, flags and the match → interview → offer funnel | live | admin-dashboard.png | | | |
 | F21 | Student facilitation status | Institutions | See who never logged in, who's missing a resume, who's active — and nudge them | live | admin-student-facilitation.png / admin-student-reminder.png | | | |
-| F22 | Content moderation (flags) | Institutions | Flagged content goes to admins before it affects users; escalation workflow | live | — | | | |
+| F22 | Content moderation (flags) | Institutions | Flagged content goes to admins before it affects users; escalation workflow | live | admin-moderation-flags.png | | | |
 | F23 | Support inbox / Contact Admin | Everyone | Students and alumni message the admin team directly; admins work a shared inbox | live | admin-support-inbox.png | | | |
 | F24 | Real-time notifications | Everyone | Approvals, announcements, registrations and cancellations update live in ~1 second, no refresh | live (NEW) | student-notifications-bell.png | | 2026-10-28 | 2026-10-16 |
 | F25 | Guided welcome tours | Everyone | Role-specific in-app tours for first-time students, alumni, faculty and admins | live | — | 2026-10-18 | 2026-10-17 | |
@@ -94,3 +94,5 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 - 2026-10-27 (sync): no marketable changes — only new commit is 5e385d3 (ERP_LMS branch, 2026-10-23, not on main): prorated "growth" billing for extra students mid-month (migrations 240–241, "Bill for extra students" banner with Pay online) — billing mechanics, not marketable. main still 1520e9c; no status changes.
 - 2026-10-27: screenshots captured from the real app (sandbox run of main 1520e9c, fictional demo data, demo college on an unlocked College Complete plan) for F47 (term courses list), F48 (faculty gradebook + student assignments list), F49 (weekly timetable + student attendance).
 - 2026-10-28 (sync): no marketable changes — only new commit is 88fa80b (ERP_LMS branch, 2026-10-28, not on main) "Bug fixes": a multi-course leave request now shows as one card the teacher approves at once, gradebook gives wide tables full width with a "more to the right" cue, term courses list their teachers — polish on F48/F49, fixes only. main still 1520e9c; no status changes.
+
+- 2026-10-28: screenshots captured from the real app (sandbox run of main 1520e9c, fictional demo data) for F22 (moderation flags with under-review note), F19 (announcements with read-by %), F17 (alumni verification queue), F09 (student topic requests panel).

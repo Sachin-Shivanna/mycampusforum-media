@@ -60,5 +60,9 @@ All screenshots are demo data. Files added 2026-10-13 come from a sandbox run of
 | student-assignments.png | Student › course › Assignments: released scores, a submitted problem set due tomorrow and an upcoming mini-project | F48 assignments & gradebook |
 | academics-timetable.png | Academics › Timetable: weekly grid by section with periods, breaks, rooms and a 2-period lab; periods/week placed per course; Print + Publish timetable | F49 timetable & attendance |
 | student-attendance.png | Student › course › Attendance: 95.2% (20 of 21 classes, 75% needed) with class-by-class present/absent list | F49 timetable & attendance |
+| admin-moderation-flags.png | Inbox › Flags: three reports (spam in a circle, a job post asking for a fee — under review with a note, a suspicious alum) with Suspend / Under review / Resolve / Escalate | F22 content moderation |
+| admin-announcements-read-tracking.png | Announcements list: three sent announcements to students/alumni with "Read by 33% / 57% / 67%" engagement and Drafts / Scheduled / Sent filters | F19 announcements with sent/read tracking |
+| admin-alumni-verification-queue.png | People › Alumni › Awaiting verification: three alumni (batch, company, role, email verified) with Approve / Reject and "Approve all 3" | F17 alumni verification |
+| admin-student-topic-requests.png | Programs › Sessions › Student topic requests panel: three requested topics waiting to be grouped and matched to alumni each month | F09 student session requests |
 
-No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): video meeting room, PayForward donations, LinkedIn profile import, alumni verification.
+No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): video meeting room, PayForward donations, LinkedIn profile import.
