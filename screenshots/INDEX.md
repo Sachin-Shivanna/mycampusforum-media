@@ -64,5 +64,10 @@ All screenshots are demo data. Files added 2026-10-13 come from a sandbox run of
 | admin-announcements-read-tracking.png | Announcements list: three sent announcements to students/alumni with "Read by 33% / 57% / 67%" engagement and Drafts / Scheduled / Sent filters | F19 announcements with sent/read tracking |
 | admin-alumni-verification-queue.png | People › Alumni › Awaiting verification: three alumni (batch, company, role, email verified) with Approve / Reject and "Approve all 3" | F17 alumni verification |
 | admin-student-topic-requests.png | Programs › Sessions › Student topic requests panel: three requested topics waiting to be grouped and matched to alumni each month | F09 student session requests |
+| alumni-company-matches.png | Alumni › Jobs & referrals › Referral requests: students auto-matched to open roles at the alum's company (86% / 71% / 88% match, "Weekly match"), New / Contacted / All filters and "Open for referrals" toggle | F02 company matches |
+| alumni-company-match-detail.png | One company match: student profile + skills, AI match reason, match summary and job details, "Message student" button | F02 company matches |
+| student-alumni-chat.png | Student's 1:1 chat with an alum about a matched role (role + company in header, "Active" status, Withdraw) | F04 1:1 chat |
+| dark-mode-student-home.png | Student Home in dark mode with a sky-blue accent (referral-ready checklist, referral opportunities, coming up) | F28 dark mode & accents |
+| dark-mode-appearance-settings.png | Settings › Appearance: Light / Dark / System theme and 10 accent colours | F28 dark mode & accents |
 
 No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): video meeting room, PayForward donations, LinkedIn profile import.
