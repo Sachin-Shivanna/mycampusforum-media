@@ -1,0 +1,53 @@
+{
+"slides": [
+{
+"kind": "cover",
+"kicker": "Monday reset",
+"title": "4 habits so you stop missing stuff this week",
+"theme": "teal",
+"emoji": "🗓️"
+},
+{
+"kind": "tip",
+"num": 1,
+"title": "Do a 10-minute Monday scan",
+"body": "Before the first lecture: what's due, what's on, who's waiting on you. One look, whole week sorted."
+},
+{
+"kind": "tip",
+"num": 2,
+"title": "Note the deadline the day it's announced",
+"body": "Not 'I'll remember'. You won't. Nobody in the batch does."
+},
+{
+"kind": "tip",
+"num": 3,
+"title": "Clear your unread before Wednesday",
+"body": "That senior who replied last week? Answer now, while they still remember your question."
+},
+{
+"kind": "tip",
+"num": 4,
+"title": "Mute the noise, keep the alerts that matter",
+"body": "Session changes and referral updates: yes. Everything else: maybe email, maybe nothing."
+},
+{
+"kind": "shot",
+"title": "Your Monday scan, sent to you",
+"shot": "screenshots/notification-preferences.png",
+"crop": [
+320,
+400,
+1350,
+840
+],
+"caption": "Weekly digest: one short Monday email. You pick what reaches you."
+},
+{
+"kind": "cta",
+"title": "Save this for Monday morning",
+"body": "Send it to the friend who finds out about everything on Friday.",
+"button": "mycampusforum.com"
+}
+]
+}
