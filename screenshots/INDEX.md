@@ -69,5 +69,9 @@ All screenshots are demo data. Files added 2026-10-13 come from a sandbox run of
 | student-alumni-chat.png | Student's 1:1 chat with an alum about a matched role (role + company in header, "Active" status, Withdraw) | F04 1:1 chat |
 | dark-mode-student-home.png | Student Home in dark mode with a sky-blue accent (referral-ready checklist, referral opportunities, coming up) | F28 dark mode & accents |
 | dark-mode-appearance-settings.png | Settings › Appearance: Light / Dark / System theme and 10 accent colours | F28 dark mode & accents |
+| switch-institution-menu.png | Faculty account menu: one login with a "Switch institution" list (second fictional college, role shown) above profile, settings, appearance, Help & tours and sign out | F44 one login across institutions |
+| welcome-tour-start.png | Student Home with the guided welcome tour opening ("Welcome to My Campus Forum — a quick tour… about a minute", 1 of 7) | F25 guided welcome tours |
+| welcome-tour-step.png | Welcome tour step 2 of 7 spotlighting the referral-ready profile-strength card with an explanation | F25 guided welcome tours |
+| session-reminder-email.png | Session reminder email "starts in 1 hour" with date/time in the institution's time zone, Join now button and a link to turn reminders off (rendered from the app's own email template, fictional data) | F39 session reminders |
 
 No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): video meeting room, PayForward donations, LinkedIn profile import.
