@@ -1,0 +1,6 @@
+{"kind":"slides","audio_from":"assets/video/story-of-growth-720p.mp4","audio_start":24,"scenes":[
+{"type":"text","pill":"POV: Monday, 9 AM","lines":["The hackathon","was last weekend.","You found out today."],"accent_last":true,"theme":"purple","dur":3.5},
+{"type":"text","lines":["The notice?","On a board you","never walk past."],"accent_last":true,"theme":"teal","dur":3},
+{"type":"shot","top":"Now it pops up the moment you log in.","shot":"screenshots/web-posters-overlay-hackathon.png","crop":[768,104,2112,1692],"bottom":"Once per login. Promise.","theme":"purple","dur":5},
+{"type":"text","pill":"On MyCampusForum","lines":["Save it.","Close it.","Or never see it again."],"accent_last":true,"theme":"teal","dur":3.5},
+{"type":"end","lines":["Can't-miss notices.","Zero spam."],"sub":"Notices for your batch, at login.","button":"mycampusforum.com","dur":3.5}]}
