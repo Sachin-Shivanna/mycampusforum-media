@@ -38,7 +38,7 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 | F25 | Guided welcome tours | Everyone | Role-specific in-app tours for first-time students, alumni, faculty and admins | live | welcome-tour-start.png / welcome-tour-step.png | 2026-10-18 | 2026-10-17 | |
 | F26 | Mobile app (iOS & Android) | Everyone | Native app for students, alumni and admins: chat, channels, sessions, referrals, jobs, admin console, dark mode | testing — confirm store launch before saying "download" | — | | | |
 | F27 | Private branded institution space | Institutions | Each institution gets its own subdomain and data isolated at the database level (row-level security) | live | — | | | |
-| F28 | Dark mode & accent themes | Everyone | Light/dark themes and colour palettes across web and mobile | live | dark-mode-student-home.png / dark-mode-appearance-settings.png | | | |
+| F28 | Dark mode & accent themes | Everyone | Light/dark themes and colour palettes across web and mobile | live | dark-mode-student-home.png / dark-mode-appearance-settings.png | | 2026-11-04 | |
 | F29 | Target companies for referrals | Students | Students pick up to 10 companies they want a referral into, with suggestions from companies where their alumni work | live (NEW) | student-target-companies.png | | 2026-10-29 | |
 | F30 | Notification preferences | Everyone | Choose, event by event, whether you get an in-app alert, an email, both or neither (security emails always stay on) | live (NEW) | notification-preferences.png | | 2026-11-02 | 2026-10-23 |
 | F31 | Scheduled announcements | Institutions | Admins write an announcement now and schedule it to go out later, with the same tracking as "Send now" | live (NEW) | admin-scheduled-announcements.png | | | 2026-10-19 |
