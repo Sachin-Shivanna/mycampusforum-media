@@ -73,5 +73,7 @@ All screenshots are demo data. Files added 2026-10-13 come from a sandbox run of
 | welcome-tour-start.png | Student Home with the guided welcome tour opening ("Welcome to My Campus Forum — a quick tour… about a minute", 1 of 7) | F25 guided welcome tours |
 | welcome-tour-step.png | Welcome tour step 2 of 7 spotlighting the referral-ready profile-strength card with an explanation | F25 guided welcome tours |
 | session-reminder-email.png | Session reminder email "starts in 1 hour" with date/time in the institution's time zone, Join now button and a link to turn reminders off (rendered from the app's own email template, fictional data) | F39 session reminders |
+| faculty-today-leave-approvals.png | Teacher's Today page: the day's classes with attendance marked (present/absent/late counts), "Needs you" reminder for an unmarked class, and leave requests shown as one card per student covering all their classes, with Approve/Decline | F49 timetable & attendance |
+| faculty-gradebook-wide.png | Course gradebook at full width: six assignments across weighted categories (Assignments, Quizzes, Lab), running total %, "Scroll sideways for more" cue and Export CSV | F48 assignments & gradebook |
 
 No screenshot yet (capture it from a sandbox run of the app — see FEATURES.md rules — or use a `text` card if that isn't possible): video meeting room, PayForward donations, LinkedIn profile import.
