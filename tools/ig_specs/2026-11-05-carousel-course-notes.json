@@ -1,0 +1,55 @@
+{
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "Swipe: Course Materials",
+   "title": "Your prof's notes. One place. Not 14 WhatsApp forwards.",
+   "theme": "orange",
+   "emoji": "📚"
+  },
+  {
+   "kind": "shot",
+   "title": "1. Open Learn",
+   "shot": "screenshots/student-learn-course-materials.png",
+   "crop": [
+    40,
+    30,
+    920,
+    570
+   ],
+   "caption": "Every course from your faculty, sorted by year and semester.",
+   "theme": "purple"
+  },
+  {
+   "kind": "shot",
+   "title": "2. Locked? Request access",
+   "shot": "screenshots/student-learn-course-materials.png",
+   "crop": [
+    480,
+    310,
+    920,
+    570
+   ],
+   "caption": "One tap. Once you're in, it shows under My access.",
+   "theme": "purple"
+  },
+  {
+   "kind": "tip",
+   "num": 3,
+   "title": "Read it right in the app",
+   "body": "Notes open in a watermarked viewer, so your prof's work stays theirs. No more blurry photo-of-a-photo PDFs."
+  },
+  {
+   "kind": "tip",
+   "num": 4,
+   "title": "Rate what actually helped",
+   "body": "Leave a rating so your juniors know which notes to open first when internals hit."
+  },
+  {
+   "kind": "cta",
+   "title": "Want this on your campus? Tag your college",
+   "body": "30-day free trial for colleges, no card needed.",
+   "button": "mycampusforum.com"
+  }
+ ]
+}
