@@ -1,0 +1,9 @@
+{"slides": [
+{"kind":"cover","kicker":"Monday survival guide","title":"Prof on leave? Is there class or not?","theme":"orange","emoji":"🤔"},
+{"kind":"tip","num":1,"title":"Don't trust the corridor rumour","body":"\"Sir is on leave\" from the last bench is not a confirmation. Check before you plan that canteen trip."},
+{"kind":"tip","num":2,"title":"Check your timetable, not the batch group","body":"A class that's moved, handed over or cancelled shows up in your timetable. Look there first."},
+{"kind":"shot","title":"Behind the scenes: no class left hanging","shot":"screenshots/admin-classes-needing-cover.png","crop":[20,110,990,350],"caption":"When a teacher's leave is approved, their classes land on a 'needs cover' list. A substitute is assigned, or the class is cancelled."},
+{"kind":"tip","num":3,"title":"Substitute period? Still a real class","body":"Show up. Your attendance cut-off doesn't care about rumours."},
+{"kind":"tip","num":4,"title":"Cancelled period? Plan it","body":"Library, that pending assignment, or a Maggi break. Your call, just don't waste it scrolling."},
+{"kind":"cta","title":"Save this for the next 'sir is on leave' rumour","body":"Tag your college. 30-day free trial for colleges, no card needed.","button":"mycampusforum.com"}
+]}
