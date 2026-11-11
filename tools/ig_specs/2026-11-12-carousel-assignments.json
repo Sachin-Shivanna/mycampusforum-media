@@ -1,0 +1,54 @@
+{
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "Swipe: Assignments",
+   "title": "\"Did my assignment even upload?\" Now you'll actually know.",
+   "theme": "teal",
+   "emoji": "📝"
+  },
+  {
+   "kind": "shot",
+   "title": "1. Open your course, tap Assignments",
+   "shot": "screenshots/student-assignments.png",
+   "crop": [
+    60,
+    180,
+    760,
+    700
+   ],
+   "caption": "Every assignment with its due date and points, in one list.",
+   "theme": "purple"
+  },
+  {
+   "kind": "tip",
+   "num": 2,
+   "title": "Submit online. See \"Submitted\".",
+   "body": "Upload from your phone or laptop and the status flips to Submitted. No more \"sir, did you get my mail?\""
+  },
+  {
+   "kind": "tip",
+   "num": 3,
+   "title": "A reminder 24 hours before",
+   "body": "A nudge a day before the deadline. Not 24 minutes after, from the batch group."
+  },
+  {
+   "kind": "tip",
+   "num": 4,
+   "title": "Feedback, not just a number",
+   "body": "When your teacher releases grades, the feedback comes with it. Know what to fix before internals."
+  },
+  {
+   "kind": "tip",
+   "num": 5,
+   "title": "Graduating? Your work stays",
+   "body": "Convocation done, but your past assignments and grades are still yours to look back on."
+  },
+  {
+   "kind": "cta",
+   "title": "Want this on your campus? Tag your college",
+   "body": "30-day free trial for colleges, no card needed.",
+   "button": "mycampusforum.com"
+  }
+ ]
+}
