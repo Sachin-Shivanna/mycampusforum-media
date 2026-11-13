@@ -28,7 +28,7 @@ All daily posting tasks (LinkedIn, Instagram, X/Twitter) pick features from this
 | F15 | Graduation flow (student → alumni) | Students, institutions | Graduating batches move from student to alumni accounts in one step with a public activation page | testing | — | | 2026-11-14 | |
 | F16 | Student profile builder & resume upload | Students | Profile strength score, skills, LinkedIn/portfolio links, drag-and-drop resume that powers matching | live | student-dashboard.png | | 2026-11-10 | |
 | F17 | Verified alumni (corporate email + admin approval) | Institutions, students | Alumni verified via corporate email and an admin approval queue, so students know who they're talking to | live | admin-alumni-verification-queue.png | | 2026-11-06 | |
-| F18 | Bulk invitations (CSV import) | Institutions | Invite thousands of students/alumni from a CSV with templates, de-duplication and history | live | admin-csv-bulk-invite.png | | | |
+| F18 | Bulk invitations (CSV import) | Institutions | Invite thousands of students/alumni from a CSV with templates, de-duplication and history | live | admin-csv-bulk-invite.png | | | 2026-11-14 |
 | F19 | Announcements (email + in-app) | Institutions | Broadcast to students, alumni or specific channels with sent/read tracking | live | admin-announcements-read-tracking.png | | | |
 | F20 | Admin dashboard & placement funnel | Institutions | One view of students, alumni, connections, sessions, flags and the match → interview → offer funnel | live | admin-dashboard.png | | | |
 | F21 | Student facilitation status | Institutions | See who never logged in, who's missing a resume, who's active — and nudge them | live | admin-student-facilitation.png / admin-student-reminder.png | | | |
