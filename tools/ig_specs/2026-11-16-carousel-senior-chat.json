@@ -1,0 +1,53 @@
+{
+"slides": [
+{
+"kind": "cover",
+"kicker": "Monday placement prep",
+"title": "A senior messaged you about a role. Now what?",
+"theme": "teal",
+"emoji": "📩"
+},
+{
+"kind": "tip",
+"num": 1,
+"title": "Reply the same day",
+"body": "A short thank-you tonight beats a perfect essay next week. Seniors are busy too."
+},
+{
+"kind": "tip",
+"num": 2,
+"title": "Lead with one project, not your whole resume",
+"body": "What you built, the stack, and the one part you're proud of. Three lines, done."
+},
+{
+"kind": "shot",
+"title": "Keep it in one chat",
+"shot": "screenshots/student-alumni-chat.png",
+"crop": [
+0,
+0,
+1400,
+935
+],
+"caption": "The role and company sit on top of the chat, so you always know which opening it's about."
+},
+{
+"kind": "tip",
+"num": 3,
+"title": "Offer to walk them through it",
+"body": "Repo link, a quick demo, ten minutes on a call. Make it easy for them to say yes."
+},
+{
+"kind": "tip",
+"num": 4,
+"title": "No ghosting, no guessing",
+"body": "When the role closes, the chat is archived automatically. You're never left wondering whether to send a fifth follow-up."
+},
+{
+"kind": "cta",
+"title": "Save this for placement season",
+"body": "Tag your college. 30-day free trial for colleges, no card needed.",
+"button": "mycampusforum.com"
+}
+]
+}
