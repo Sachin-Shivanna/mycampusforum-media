@@ -4,7 +4,7 @@
   {"kind": "shot", "title": "1. Open your profile, see your results", "shot": "screenshots/student-gpa-results.png", "crop": [370, 455, 1030, 1000], "caption": "CGPA, SGPA and every subject's grade.", "theme": "purple"},
   {"kind": "tip", "num": 2, "title": "Nobody types your GPA", "body": "When your teacher finalises the course in the gradebook, your result is saved and your GPA is worked out automatically."},
   {"kind": "tip", "num": 3, "title": "Your college's own scale", "body": "Grade bands and credit weighting are set once by your college, so the maths matches your marksheet rules. Not a random online calculator."},
-  {"kind": "tip", "num": 4, "title": "No more 1 AM maths", "body": "Skip the credits x grade points spreadsheet before internals. Spend that time on Maggi. Or sleep."},
+  {"kind": "tip", "num": 4, "title": "Skip the spreadsheet", "body": "No credits x grade points formula, no 6-tab Excel sheet before internals. Spend that time on Maggi. Or sleep."},
   {"kind": "tip", "num": 5, "title": "Graduated? Still yours", "body": "Alumni can still see their term results and GPA. Handy when that job form asks for your CGPA."},
   {"kind": "cta", "title": "Want this on your campus? Tag your college", "body": "30-day free trial for colleges, no card needed.", "button": "mycampusforum.com"}
  ]
