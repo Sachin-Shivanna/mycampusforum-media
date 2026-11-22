@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "Monday campus hack",
+   "title": "Fest season is here. Stop missing the notices that matter.",
+   "theme": "orange",
+   "emoji": "📌"
+  },
+  {
+   "kind": "tip",
+   "num": 1,
+   "title": "Don't trust message 237 of the batch group",
+   "body": "The fest notice is buried under 400 good-morning forwards and one meme war. Forwards are not a plan."
+  },
+  {
+   "kind": "shot",
+   "title": "It pops up the moment you log in",
+   "shot": "screenshots/mobile-posters-overlay-homecoming.png",
+   "crop": [
+    40,
+    1060,
+    1140,
+    1880
+   ],
+   "caption": "Date, venue, time. Save it, or hide it."
+  },
+  {
+   "kind": "tip",
+   "num": 2,
+   "title": "Hit Save, not screenshot",
+   "body": "Save keeps the poster on your phone, so date, venue and time are there when the gang asks at 4:55 PM."
+  },
+  {
+   "kind": "tip",
+   "num": 3,
+   "title": "Not your scene? Never show again",
+   "body": "One tap and that poster stops showing up. Your login stays yours."
+  },
+  {
+   "kind": "tip",
+   "num": 4,
+   "title": "Only what's meant for you",
+   "body": "Staff pick who sees each poster, by department or batch. And it shows once per login, promise."
+  },
+  {
+   "kind": "cta",
+   "title": "Save this before fest week",
+   "body": "Tag your college. 30-day free trial for colleges, no card needed.",
+   "button": "mycampusforum.com"
+  }
+ ]
+}
