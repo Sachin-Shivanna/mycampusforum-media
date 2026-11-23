@@ -5,11 +5,11 @@
  "scenes": [
   {
    "type": "text",
-   "pill": "POV: 1 AM, hostel bed",
+   "pill": "POV: interview in 3 days",
    "lines": [
-    "Searching \"how to crack",
-    "interviews\"",
-    "for the 4th time."
+    "6 hours of",
+    "\"how to crack it\"",
+    "videos. Still lost."
    ],
    "accent_last": true,
    "theme": "purple",
@@ -56,7 +56,7 @@
    "type": "end",
    "lines": [
     "Ask the senior,",
-    "not the search bar."
+    "not the algorithm."
    ],
    "sub": "Alumni-hosted sessions for your campus.",
    "button": "mycampusforum.com",
