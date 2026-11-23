@@ -1,0 +1,66 @@
+{
+ "kind": "slides",
+ "audio_from": "assets/video/story-of-growth-720p.mp4",
+ "audio_start": 100,
+ "scenes": [
+  {
+   "type": "text",
+   "pill": "POV: 1 AM, hostel bed",
+   "lines": [
+    "Searching \"how to crack",
+    "interviews\"",
+    "for the 4th time."
+   ],
+   "accent_last": true,
+   "theme": "purple",
+   "dur": 3.5
+  },
+  {
+   "type": "text",
+   "lines": [
+    "Meanwhile a senior",
+    "who's been there",
+    "could just tell you."
+   ],
+   "accent_last": true,
+   "theme": "teal",
+   "dur": 3
+  },
+  {
+   "type": "shot",
+   "top": "Alumni-hosted sessions, right on your home.",
+   "shot": "screenshots/student-home-redesign.png",
+   "crop": [
+    872,
+    158,
+    1356,
+    568
+   ],
+   "bottom": "Tap Register. Get a reminder before it starts.",
+   "theme": "purple",
+   "dur": 4.5
+  },
+  {
+   "type": "text",
+   "pill": "Hosted by alumni",
+   "lines": [
+    "AMAs.",
+    "Workshops.",
+    "Mock interviews."
+   ],
+   "accent_last": true,
+   "theme": "teal",
+   "dur": 3
+  },
+  {
+   "type": "end",
+   "lines": [
+    "Ask the senior,",
+    "not the search bar."
+   ],
+   "sub": "Alumni-hosted sessions for your campus.",
+   "button": "mycampusforum.com",
+   "dur": 3.5
+  }
+ ]
+}
