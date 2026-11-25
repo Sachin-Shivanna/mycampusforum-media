@@ -1,0 +1,11 @@
+{
+ "slides": [
+  {"kind": "cover", "kicker": "Swipe: DMs & group chats", "title": "Your project group doesn't need your personal number", "theme": "ink", "emoji": "💬"},
+  {"kind": "shot", "title": "1. Tap New, start a group", "shot": "screenshots/dm-group-chat.png", "crop": [515, 0, 1400, 940], "caption": "Classmates in one chat. Up to 50 people.", "theme": "teal"},
+  {"kind": "tip", "num": 2, "title": "Files and photos, right there", "body": "Share the PPT, the notes, the whiteboard photo from the lab. Reply to a message or react to it, no 40 'ok' messages."},
+  {"kind": "tip", "num": 3, "title": "Typo? Fix it. Wrong group? Unsend", "body": "Edit or unsend a message within 15 minutes. The 'sorry, wrong chat' era is over."},
+  {"kind": "tip", "num": 4, "title": "Seen it? Now you'll know", "body": "Read receipts show who has actually seen the plan. Search pulls up the venue message from last week in seconds."},
+  {"kind": "tip", "num": 5, "title": "Profs and staff, same app", "body": "Message your teachers and college staff in the same place as your batch. Your personal WhatsApp stays personal."},
+  {"kind": "cta", "title": "Tag your college. And your project group", "body": "30-day free trial for colleges, no card needed.", "button": "mycampusforum.com"}
+ ]
+}
